@@ -1,1 +1,1 @@
-## Light Blub - on /  off - Animation
+## Light Blub - on / off - Animation
